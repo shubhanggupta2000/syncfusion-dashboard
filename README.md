@@ -1,7 +1,7 @@
 # React Admin Dashboard App
-This Admin Panel includes one Dashboard, Three pages, Four Apps, and Seven Fully Functional charts!
-Made with the help of pre-recorded data and tailwindcss, this app allows users to keep track of their projects, activity and even allows to make reminders on calendar and even monitor their activity from charts.
-The Settings contain a feature of dark-light theme transition as well as color change that allows users to experience different themes at once.
+-This Admin Panel includes one Dashboard, Three pages, Four Apps, and Seven Fully Functional charts!
+-Made with the help of pre-recorded data and tailwindcss, this app allows users to keep track of their projects, activity and even allows to make reminders on calendar and even monitor their activity from charts.
+-The Settings contain a feature of dark-light theme transition as well as color change that allows users to experience different themes at once.
 
 
 ## Glimpse
